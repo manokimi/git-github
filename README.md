@@ -1,4 +1,4 @@
-# Recapitulação do HTML e CSS e teste do git no terminnal do VSCODE
+# Linhas de código populares do git 
 | Comandos | Descrição |
 | :--- | :---: |
 | `git init` | Cria um novo repositório Git na pasta atual. |
